@@ -41,25 +41,22 @@
 
 Specialist level.
 
-Chemist
-
-
+Chemist\
+\
 **2014-2018**
 
 *St.Petersburg State University, Institute of Chemistry*
 
 Postgraduate program
 
-Researcher. Teacher-researcher.
-
-
+Researcher. Teacher-researcher.\
+\
 **May 16 – October 22, 2022** 
 
 *Html Academy*
 
-HTML & CSS. Professional Website Coding
-
-
+HTML & CSS. Professional Website Coding\
+\
 **November 21, 2022 – May 8, 202**
 
 *Html Academy*
@@ -72,9 +69,8 @@ HTML & CSS. Adaptive Website Coding and Automation
 
 *St.Petersburg State University, Institute of Chemistry*
 
-Chemical researcher
-
-
+Chemical researcher\
+\
 **since 2018**
 
 *Bizon365*
